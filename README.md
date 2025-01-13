@@ -17,7 +17,7 @@ The user will be presented with the basic CLI, that will enable the following op
 ## Installation
 1. Clone the repository:
 ```shell
-git clone <repository-url>
+git clone https://github.com/Spearwish/Hubert-s-Habit-Tracker
 cd habit_tracker
 ```
 2. Install the dependencies:
